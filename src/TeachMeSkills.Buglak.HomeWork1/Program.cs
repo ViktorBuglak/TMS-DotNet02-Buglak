@@ -2,6 +2,9 @@
 
 namespace TeachMeSkills.Buglak.HomeWork1
 {
+    /// <summary>
+    /// comment
+    /// </summary>
     class Program
     {
         public static void Main(string[] args)
