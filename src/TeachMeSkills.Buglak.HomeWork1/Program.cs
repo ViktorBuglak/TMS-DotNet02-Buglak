@@ -17,7 +17,7 @@ namespace TeachMeSkills.Buglak.HomeWork1
             {
                 Console.WriteLine("Некорректный ввод");
             }
-            Console.ReadLine();
+            Console.ReadLine(); //PR
         }
     }
 }
