@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Buglak.HomeWork1", "src\TeachMeSkills.Buglak.HomeWork1\TeachMeSkills.Buglak.HomeWork1.csproj", "{E7D8B94A-701B-4359-886E-48F81FF88744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.Buglak.HomeWork2", "src\TeachMeSkills.Buglak.HomeWork2\TeachMeSkills.Buglak.HomeWork2.csproj", "{ED349C48-5507-4C72-B955-F7D2C5DEBB1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeachMeSkills.Buglak.HomeWork2", "src\TeachMeSkills.Buglak.HomeWork2\TeachMeSkills.Buglak.HomeWork2.csproj", "{ED349C48-5507-4C72-B955-F7D2C5DEBB1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
